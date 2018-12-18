@@ -1,0 +1,27 @@
+{
+  "name": "mernapp",
+  "version": "1.0.0",
+  "description": "exercice react-express-mongodb",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.2",
+    "body-parser": "^1.18.2",
+    "mongoose": "^5.0.7",
+    "password-hash": "^1.2.2",
+    "jwt-simple": "^0.5.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daphnalex/Mernapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Daphnalex/Mernapp/issues"
+  },
+  "homepage": "https://github.com/Daphnalex/Mernapp#readme"
+}
